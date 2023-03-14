@@ -13,6 +13,6 @@ public class GitTest {
         System.out.println("master change");
         System.out.println("hello git5");
         System.out.println("remote test push");
-
+        System.out.println("remote test pull");
     }
 }
